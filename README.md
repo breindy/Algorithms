@@ -31,7 +31,7 @@
 - How cookies work
 - Standard ways to speed up a slow website (adding database indices to optimize common queries, better caching, loading front-end assets from a CDN, cleaning zombie listeners, pretty rabbit holey)
 
-##Spring 2017 CSc 22000 Professor Ahmet Yuksel (CCNY)
+## Spring 2017 CSc 22000 Professor Ahmet Yuksel (CCNY)
 1. Introduction to Algorithms
   - Insertion Sort, Correctness of Insertion Sort 
   - (HW 1: Correctness of Insertion Sort)
