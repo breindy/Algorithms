@@ -59,3 +59,7 @@
 12. BST (getMin, getMax, successor, predecessor
   - Red-Black Trees
 .......................................................................................
+
+## Programming Assignments (Coming Soon)
+1. Runtime Comparison
+2. Knapsack Problem (Dynamic Programming)
